@@ -2,7 +2,7 @@
 - Projeto iniciado dia 18/01/2024!
 - Totalmente fácil de utilizar e configurar!
 
-# **Pendecias ✨**
+# **Pendencias ✨**
 ```js
 npm install discord.js@14.14.1
 npm install axios
