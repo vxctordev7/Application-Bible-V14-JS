@@ -47,12 +47,3 @@ module.exports = {
         interaction.channel.send({ content: `${interaction.user}`, embeds: [BibleConsul] })
     }
 }
-
-function newFunction() {
-    return {
-        name: 'versiculo',
-        description: 'Qual versículo deseja pesquisar?',
-        type: Discord.ApplicationCommandOptionType.Number,
-        required: true
-    };
-}
